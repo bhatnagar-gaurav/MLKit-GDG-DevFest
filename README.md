@@ -16,16 +16,15 @@ It is made with the intention of understanding how to use the ML Kit base apis i
 - Landmark Recognition using onCloud APIs
 
 <h2>Screenshots</h2>
-<img src="https://github.com/debajyotibasak/UdacityPopularMovies/blob/master/screenshots/appwrap-template-20180717203333.png" width="450" height="800"></br>
-<img src="https://github.com/debajyotibasak/UdacityPopularMovies/blob/master/screenshots/appwrap-template-20180717203400.png" width="450" height="800"></br>
-<img src="https://github.com/debajyotibasak/UdacityPopularMovies/blob/master/screenshots/appwrap-template-20180717203422.png" width="450" height="800"></br>
-<img src="https://github.com/debajyotibasak/UdacityPopularMovies/blob/master/screenshots/appwrap-template-20180717203446.png" width="450" height="800"><br/>
-<img src="https://github.com/debajyotibasak/UdacityPopularMovies/blob/master/screenshots/appwrap-template-20180717203503.png" width="450" height="800"><br/>
-<img src="https://github.com/debajyotibasak/UdacityPopularMovies/blob/master/screenshots/appwrap-template-20180717203520.png" width="450" height="800"><br/>
-<img src="https://github.com/debajyotibasak/UdacityPopularMovies/blob/master/screenshots/appwrap-template-20180717203545.png" width="450" height="800"><br/>
-
-<h2>Screen Video</h2>
-<img src="https://github.com/debajyotibasak/UdacityPopularMovies/blob/master/gifs/stage2.gif" width="450" height="800"></br>
+<img src="https://github.com/bhatnagar-gaurav/MLKit-GDG-DevFest/blob/master/screenshots/Flagship.png"
+width="450" height="800"></br>
+<img src="https://github.com/bhatnagar-gaurav/MLKit-GDG-DevFest/blob/master/screenshots/Screenshot_20181012-124433.png" width="450" height="800"></br>
+<img src="https://github.com/bhatnagar-gaurav/MLKit-GDG-DevFest/blob/master/screenshots/Screenshot_20181012-124521.png" width="450" height="800"></br>
+<img src="https://github.com/bhatnagar-gaurav/MLKit-GDG-DevFest/blob/master/screenshots/Screenshot_20181012-130041.png" width="450" height="800"></br>
+<img src="https://github.com/bhatnagar-gaurav/MLKit-GDG-DevFest/blob/master/screenshots/Screenshot_20181012-130108.png" width="450" height="800"><br/>
+<img src="https://github.com/bhatnagar-gaurav/MLKit-GDG-DevFest/blob/master/screenshots/Screenshot_20181012-130214.png" width="450" height="800"><br/>
+<img src="https://github.com/bhatnagar-gaurav/MLKit-GDG-DevFest/blob/master/screenshots/Screenshot_20181012-130339.png" width="450" height="800"><br/>
+<img src="https://github.com/bhatnagar-gaurav/MLKit-GDG-DevFest/blob/master/screenshots/Screenshot_20181012-131558.png" width="450" height="800"><br/>
 
 <h2>Steps to run the app</h2>
 
