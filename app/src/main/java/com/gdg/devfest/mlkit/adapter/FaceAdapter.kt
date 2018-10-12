@@ -27,7 +27,6 @@ class FaceAdapter(private val faces: List<FirebaseVisionFace>) : RecyclerView.Ad
         faceholder.itemView.leftEyeClose.text = face.leftEyeOpenProbability.toString()
         faceholder.itemView.rightEyeClosed.text = face.rightEyeOpenProbability.toString()
 
-
     }
 
     class FaceHolder(itemView: View) : RecyclerView.ViewHolder(itemView)

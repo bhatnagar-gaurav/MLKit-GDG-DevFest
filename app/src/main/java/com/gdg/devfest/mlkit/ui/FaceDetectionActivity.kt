@@ -43,8 +43,7 @@ class FaceDetectionActivity : BaseCameraActivity() {
                     detectedFaces.clear()
                     detectedFaces.addAll(it)
                     adapter.notifyDataSetChanged()
-                    btnRetry.visibility = GONE;
-
+                    btnRetry.visibility = GONE
                 }
                 .addOnFailureListener {
 
