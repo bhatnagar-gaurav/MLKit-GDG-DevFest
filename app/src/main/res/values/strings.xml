@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MLKit GDG DevFest</string>
+    <string name="detected_items">Detected Items</string>
+    <string name="desc_text">A simple credit card scanner that reads the card number and expiry date</string>
+    <string name="desc_face">Load and run a custom TensorflowLite model</string>
+    <string name="desc_barcode">A simple QR code scanner</string>
+    <string name="desc_labelling_ondevice">Image Labeling Sample using MLKit OnDevice</string>
+    <string name="desc_labelling_oncloud">Image Labeling Sample using MLKit OnCloud</string>
+
+    <string name="desc_landmark">LandMark Detection sample using MLKit OnCloud</string>
+    <string name="title_text">Text recognition</string>
+    <string name="title_custom">Custom Model</string>
+    <string name="title_barcode">Barcode scanning</string>
+    <string name="title_labelling_ondevice">Image labeling onDevice</string>
+    <string name="title_labelling_oncloud">Image labeling onCloud</string>
+    <string name="title_landmark">Landmark recognition</string>
+    <string name="location">Location</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="accuracy">Accuracy</string>
+    <string name="title_face">Face Detection</string>
+</resources>

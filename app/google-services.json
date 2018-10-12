@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "384981279525",
+    "firebase_url": "https://mlkit-gdg-devfest.firebaseio.com",
+    "project_id": "mlkit-gdg-devfest",
+    "storage_bucket": "mlkit-gdg-devfest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384981279525:android:a18a65b45a10dd29",
+        "android_client_info": {
+          "package_name": "com.gdg.devfest.mlkit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "384981279525-7g750gql07fvgu74d2jk5t3tc05m3m20.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoOTjysSdSDIn_v_03fcLm4SpHgRzhZUs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
