@@ -19,8 +19,10 @@ It is an updated fork from https://github.com/the-dagger/MLKitAndroid</p>
 <h2>Screenshots</h2>
 <img src="https://github.com/bhatnagar-gaurav/MLKit-GDG-DevFest/blob/master/screenshots/Flagship.png"
 width="450" height="800"></br>
+<h2>Image Labelling using onDevice API</h2>
 <img src="https://github.com/bhatnagar-gaurav/MLKit-GDG-DevFest/blob/master/screenshots/Screenshot_20181012-124433.png" width="450" height="800"></br>
 <img src="https://github.com/bhatnagar-gaurav/MLKit-GDG-DevFest/blob/master/screenshots/Screenshot_20181012-124521.png" width="450" height="800"></br>
+
 <img src="https://github.com/bhatnagar-gaurav/MLKit-GDG-DevFest/blob/master/screenshots/Screenshot_20181012-130041.png" width="450" height="800"></br>
 <img src="https://github.com/bhatnagar-gaurav/MLKit-GDG-DevFest/blob/master/screenshots/Screenshot_20181012-130108.png" width="450" height="800"><br/>
 <img src="https://github.com/bhatnagar-gaurav/MLKit-GDG-DevFest/blob/master/screenshots/Screenshot_20181012-130214.png" width="450" height="800"><br/>
@@ -29,7 +31,7 @@ width="450" height="800"></br>
 <img src="https://github.com/bhatnagar-gaurav/MLKit-GDG-DevFest/blob/master/screenshots/face_detection_sample.png" 
 width="450" height="800"><br/>
 
-<h2>Screen Video</h2>
+<h2>Demo Video</h2>
 <img src="https://github.com/bhatnagar-gaurav/MLKit-GDG-DevFest/blob/master/gifs/image_labelling_workflow.gif" width="450" height="800"></br>
 
 
