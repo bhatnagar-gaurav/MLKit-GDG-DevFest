@@ -1,11 +1,11 @@
 <p align="center"> 
-<img src="https://github.com/bhatnagar-gaurav/MLKit-GDG-DevFest/new/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png">
+<img src="hhttps://github.com/bhatnagar-gaurav/MLKit-GDG-DevFest/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png">
 </p>
 
 <h1 align="center">MLKit Sample App</h1>
 <p align="center">This is an App made for Showcasing base apis for ML Kit. 
 Its an Android app to understand the ready to use APIs of ML Kit. We can also detect faces without internet.  
-This app uses an API provided by https://www.themoviedb.org/. 
+This app uses an API provided by https://firebase.google.com/docs/reference/android/com/google/firebase/ml/vision/package-summary. 
 It is made with the intention of understanding how to use the ML Kit base apis in a simplified manner.</p>
 
 <h2>Features</h2>
