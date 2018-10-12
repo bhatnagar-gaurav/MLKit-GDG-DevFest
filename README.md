@@ -37,10 +37,7 @@ It is made with the intention of understanding how to use the ML Kit base apis i
  <li>Afer adding the project in Firebase Console , download the <b>'google-services.json'</b> file.</li>
 <li>Paste this file in the app directory</li>
  <li>Build this project and Run</li>
-
-## Download APK
-
-
+ 
 ## Libraries
 
 * [CameraKit Android](https://github.com/CameraKit/camerakit-android)
