@@ -36,7 +36,7 @@ It is made with the intention of understanding how to use the ML Kit base apis i
 <ol>
  <li>Afer adding the project in Firebase Console , download the <b>'google-services.json'</b> file.</li>
 <li>Paste this file in the app directory</li>
-<p>Build the project and Run</p>
+ <li>Build this project and Run</li>
 
 ## Download APK
 
