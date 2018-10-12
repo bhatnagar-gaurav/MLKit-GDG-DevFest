@@ -26,6 +26,12 @@ width="450" height="800"></br>
 <img src="https://github.com/bhatnagar-gaurav/MLKit-GDG-DevFest/blob/master/screenshots/Screenshot_20181012-130214.png" width="450" height="800"><br/>
 <img src="https://github.com/bhatnagar-gaurav/MLKit-GDG-DevFest/blob/master/screenshots/Screenshot_20181012-130339.png" width="450" height="800"><br/>
 <img src="https://github.com/bhatnagar-gaurav/MLKit-GDG-DevFest/blob/master/screenshots/Screenshot_20181012-131558.png" width="450" height="800"><br/>
+<img src="https://github.com/bhatnagar-gaurav/MLKit-GDG-DevFest/blob/master/screenshots/face_detection_sample.png" 
+width="450" height="800"><br/>
+
+<h2>Screen Video</h2>
+<img src="https://github.com/bhatnagar-gaurav/MLKit-GDG-DevFest/blob/master/gifs/image_labelling_workflow.gif" width="450" height="800"></br>
+
 
 <h2>Steps to run the app</h2>
 
