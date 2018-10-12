@@ -29,11 +29,11 @@ It is made with the intention of understanding how to use the ML Kit base apis i
 
 <h2>Steps to run the app</h2>
 <p>The app uses the onDevice and Cloud Vision API for image labelling and landmark identification. You must clone this repo and add it in 
-[Firebase Console](https://console.firebase.google.com/)
+[Firebase Console](https://console.firebase.google.com)
 </p>
 <p>In Firebase upgrade from Spark Plan to Blaze.This is because the cloud recognition API is only available on paid plans. Blaze is a pay as you go plan</p>
 <p>Enable the 
- [Cloud Vision Api](https://console.cloud.google.com/apis/library/vision.googleapis.com?q=vision&project=wherecaniwatch-dcfe6) 
+[Cloud Vision Api](https://console.cloud.google.com/apis/library/vision.googleapis.com?q=vision&project=wherecaniwatch-dcfe6) 
   for our Firebase project over in the Google API Console. The Cloud Apis are free for first 1000 requests in a month .</p>
 
 <ol>
