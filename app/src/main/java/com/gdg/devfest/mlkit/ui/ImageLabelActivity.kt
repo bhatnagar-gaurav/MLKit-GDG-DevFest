@@ -36,27 +36,8 @@ class ImageLabelActivity : BaseCameraActivity() {
                     itemAdapter = ImageLabelAdapter(itemsList, false)
                     rvLabel.adapter = itemAdapter
                     descriptionBehavior.setState(BottomSheetBehavior.STATE_EXPANDED)
-                }
-                .addOnFailureListener {
-                    // Task failed with an exception
-                    fabProgressCircle.hide()
-                    Toast.makeText(baseContext,"Sorry, something went wrong!",Toast.LENGTH_SHORT).show()
-                }
-    }
+                    btnRetry.visibility = View.GONE
 
-    private fun getLabelsViaCloud(bitmap: Bitmap) {
-        val image = FirebaseVisionImage.fromBitmap(bitmap)
-        val detector = FirebaseVision.getInstance()
-                .visionCloudLabelDetector
-        itemsList.clear()
-        detector.detectInImage(image)
-                .addOnSuccessListener {
-                    // Task completed successfully
-                    fabProgressCircle.hide()
-                    itemsList.addAll(it)
-                    itemAdapter = ImageLabelAdapter(itemsList, true)
-                    rvLabel.adapter = itemAdapter
-                    descriptionBehavior.setState(BottomSheetBehavior.STATE_EXPANDED)
                 }
                 .addOnFailureListener {
                     // Task failed with an exception

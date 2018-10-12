@@ -96,12 +96,16 @@ class LandmarkDetectorActivity : BaseCameraActivity() {
                         }
                         tvAccuracy.text = (firebaseVisionLandmarks.confidence * 100).toInt().toString()
                     }
+                    btnRetry.visibility = View.GONE
+
                 }
                 .addOnFailureListener {
                     Toast.makeText(this, "Something went wrong", Toast.LENGTH_SHORT).show()
                 }
                 .addOnCompleteListener {
                     descriptionBehavior.state = BottomSheetBehavior.STATE_EXPANDED
+                    btnRetry.visibility = View.GONE
+
                 }
     }
 
