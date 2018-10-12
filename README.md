@@ -28,15 +28,13 @@ It is made with the intention of understanding how to use the ML Kit base apis i
 <img src="https://github.com/debajyotibasak/UdacityPopularMovies/blob/master/gifs/stage2.gif" width="450" height="800"></br>
 
 <h2>Steps to run the app</h2>
-<p>The app uses the onDevice and Cloud Vision API for image labelling and landmark identification. You must clone this repo and add it in 
-[Firebase Console] (https://console.firebase.google.com)
+
+<p>The app uses the onDevice and Cloud Vision API for image labelling and landmark identification. You must clone this repo and add it in Firebase Console (https://console.firebase.google.com) .
 </p>
 <p>In Firebase upgrade from Spark Plan to Blaze.This is because the cloud recognition API is only available on paid plans. Blaze is a pay as you go plan</p>
-<p>Enable the [Cloud Vision Api] (https://console.cloud.google.com/apis/library/vision.googleapis.com?q=vision&project=wherecaniwatch-dcfe6) 
-  for our Firebase project over in the Google API Console. The Cloud Apis are free for first 1000 requests in a month .</p>
-
+<p>Enable the Cloud Vision Api (https://console.cloud.google.com/apis/library/vision.googleapis.com?q=vision&project=wherecaniwatch-dcfe6) for this Firebase project over in the Google API Console. The Cloud Apis are free for first 1000 requests in a month .</p>
 <ol>
-  <li>Afer adding the project in Firebase Console , download the <b>'google-services.json'</b> file.</li>
+ <li>Afer adding the project in Firebase Console , download the <b>'google-services.json'</b> file.</li>
 <li>Paste this file in the app directory</li>
 <p>Build the project and Run</p>
 
