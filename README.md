@@ -1,5 +1,5 @@
 <p align="center"> 
-<img src="hhttps://github.com/bhatnagar-gaurav/MLKit-GDG-DevFest/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png">
+<img src="https://github.com/bhatnagar-gaurav/MLKit-GDG-DevFest/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png">
 </p>
 
 <h1 align="center">MLKit Sample App</h1>
