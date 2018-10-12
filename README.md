@@ -4,10 +4,10 @@
 
 <h1 align="center">MLKit Sample App</h1>
 <p align="center">This is an App made for Showcasing base apis for ML Kit. 
-Its an Android app to understand the ready to use APIs of ML Kit. We can also detect faces without internet.  
+Its an Android app to understand the ready to use APIs of ML Kit. We can also detect faces and label images without internet using on-Device APIs. 
 This app uses an API provided by https://firebase.google.com/docs/reference/android/com/google/firebase/ml/vision/package-summary. 
 It is made with the intention of understanding how to use the ML Kit base apis in a simplified manner.
-        It is an updated fork from https://github.com/the-dagger/MLKitAndroid</p>
+It is an updated fork from https://github.com/the-dagger/MLKitAndroid</p>
 
 <h2>Features</h2>
 
