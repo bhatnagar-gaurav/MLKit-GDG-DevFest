@@ -1,0 +1,46 @@
+<p align="center"> 
+<img src="https://github.com/bhatnagar-gaurav/MLKit-GDG-DevFest/new/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png">
+</p>
+
+<h1 align="center">MLKit Sample App</h1>
+<p align="center">This is an App made for Showcasing base apis for ML Kit. 
+Its an Android app to understand the ready to use APIs of ML Kit. We can also detect faces without internet.  
+This app uses an API provided by https://www.themoviedb.org/. 
+It is made with the intention of understanding how to use the ML Kit base apis in a simplified manner.</p>
+
+<h2>Features</h2>
+
+- Image Labelling using onDevice APIs
+- Image Labelling using onCloud APIs
+- Face Detection using onDevice APIs
+- Landmark Recognition using onCloud APIs
+
+<h2>Screenshots</h2>
+<img src="https://github.com/debajyotibasak/UdacityPopularMovies/blob/master/screenshots/appwrap-template-20180717203333.png" width="450" height="800"></br>
+<img src="https://github.com/debajyotibasak/UdacityPopularMovies/blob/master/screenshots/appwrap-template-20180717203400.png" width="450" height="800"></br>
+<img src="https://github.com/debajyotibasak/UdacityPopularMovies/blob/master/screenshots/appwrap-template-20180717203422.png" width="450" height="800"></br>
+<img src="https://github.com/debajyotibasak/UdacityPopularMovies/blob/master/screenshots/appwrap-template-20180717203446.png" width="450" height="800"><br/>
+<img src="https://github.com/debajyotibasak/UdacityPopularMovies/blob/master/screenshots/appwrap-template-20180717203503.png" width="450" height="800"><br/>
+<img src="https://github.com/debajyotibasak/UdacityPopularMovies/blob/master/screenshots/appwrap-template-20180717203520.png" width="450" height="800"><br/>
+<img src="https://github.com/debajyotibasak/UdacityPopularMovies/blob/master/screenshots/appwrap-template-20180717203545.png" width="450" height="800"><br/>
+
+<h2>Screen Video</h2>
+<img src="https://github.com/debajyotibasak/UdacityPopularMovies/blob/master/gifs/stage2.gif" width="450" height="800"></br>
+
+<h2>Steps to run the app</h2>
+<p>The app uses them onDevice and Cloud Vision API for image labelling and landmark identification. You must clone this repo and add it in Firebase Console.
+Also enable the Cloud Vision Api by switching to Blaze plan on Firebase. The Cloud Apis are free for first 1000 requests in a month .</p>
+<p>If you do not have a gradle.properties file, create one</p>
+<ol>
+<li>Afer adding the project in Firebase Console , download the 'google-services.json' file.</li>
+<li>Paste this file in the app directory</li>
+<p>Build the project and Run</p>
+
+## Download APK
+
+
+## Libraries
+
+* [CameraKit Android](https://github.com/CameraKit/camerakit-android)
+* [FAB Progress to show progress](https://github.com/JorgeCastilloPrz/FABProgressCircle)
+* [Picking Image from camera/gallery](https://github.com/jkwiecien/EasyImage)
